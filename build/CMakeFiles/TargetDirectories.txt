@@ -1,0 +1,4 @@
+C:/Users/renpa/OneDrive/Desktop/TrayService/build/CMakeFiles/TrayService.dir
+C:/Users/renpa/OneDrive/Desktop/TrayService/build/CMakeFiles/TrayApp.dir
+C:/Users/renpa/OneDrive/Desktop/TrayService/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/renpa/OneDrive/Desktop/TrayService/build/CMakeFiles/ZERO_CHECK.dir

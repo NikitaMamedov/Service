@@ -1,0 +1,9 @@
+[
+    uuid(11223344-5566-7788-99AA-BBCCDDEEFF00),
+    version(1.0)
+]
+interface TrayServiceRPC
+{
+    void StopService();
+    boolean IsServiceRunning();
+}
